@@ -1,4 +1,5 @@
-https://media1.tenor.com/m/AJ9_kDPdd1QAAAAd/gorilla-gamgam.gif
+![Uploading image.png…]()
+
 My name is Kamil😎
 
 Languages:Russian/I can speak some English
