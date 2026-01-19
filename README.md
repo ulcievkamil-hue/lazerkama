@@ -1,4 +1,4 @@
-<img src="gorilla-gamgam.gif" width="600" alt="Анимация работы">
+<img src="gorilla-gamgam.gif" width="600" >
 My name is Kamil😎
 
 Languages:Russian/I can speak some English
